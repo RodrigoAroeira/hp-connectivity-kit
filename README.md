@@ -4,7 +4,7 @@ A reliable, cross-platform, open-source alternative to the official HP Prime Con
 
 > **Project Status: Early Planning / Pre-v0.1**  
 > This repository is currently a clean slate where the actual architecture and v1 codebase are being built from scratch.  
-> Looking for the initial proof-of-concept? You can find the early vibecoded prototype in [https://github.com/RodrigoAroeira/hp-connectivity-kit-prototype]().
+> Looking for the initial proof-of-concept? You can read the [early vibecoded prototype](https://github.com/RodrigoAroeira/hp-connectivity-kit-prototype).
 
 ## Why this project exists
 
@@ -37,5 +37,5 @@ The official HP Prime Connectivity Kit is closed-source, suffers from frequent U
 Contributions are welcome! Whether you have experience with **Rust**, **USB HID protocols (`hidapi` / `rusb`)**, **GUI frameworks in Rust**, or **reverse-engineering**, feel free to jump in:
 
 1. Check the **Issues** or **Discussions** tab to see current architectural planning and open tasks.
-2. Reference the [https://github.com/RodrigoAroeira/hp-connectivity-kit-prototype]() if you want to inspect the working USB packet logic already discovered.
+2. Reference the [prototype](https://github.com/RodrigoAroeira/hp-connectivity-kit-prototype) if you want to inspect the working USB packet logic already discovered.
 3. Open an issue before submitting large PRs so we can align on architecture and module boundaries.
